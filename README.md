@@ -12,4 +12,4 @@ These were, the batting and team CSV files available there. My process is listed
 * Comparison with other models
 * Conclusion/Findings
 
-Most of the techniques used in this project came from the MSDS 680 Machine Learning course at Regis University. However, the use of the plotly package was learned while in MSDS 670- Data Visualization. This project was an application of skills and processes learned in those classes on an area of interest for myself. For further explanation, I've included a powerpoint presentation that explains my findings. 
+Most of the techniques used in this project came from the MSDS 680 Machine Learning course at Regis University. However, the use of the plotly package was learned while in MSDS 670- Data Visualization. This project was an application of skills and processes learned in those classes on an area of interest for myself. For further explanation, I've included a powerpoint presentation that explains my findings along with the video presentation under the file Lujan_MLB.mp4. That should be available to download. 
